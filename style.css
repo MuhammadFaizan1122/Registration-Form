@@ -1,0 +1,207 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+img {
+    margin-left: 40%;
+}
+
+h1 u {
+    color: blue;
+    margin-left: 490px;
+}
+
+.page {
+    background-color: #66cdaa;
+    width: 830px;
+    height: 900PX;
+    font-size: 15px;
+    margin-left: 22em;
+}
+
+.page .first-name {
+    margin-left: 50px;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+
+/* .page input{
+    padding: 20px 60px;
+} */
+
+.page .last-name {
+    margin-left: 52px;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.day {
+    margin-left: 30px;
+    padding: 4px;
+    margin-top: 20px;
+}
+
+.Month {
+    margin-left: 5px;
+    padding: 4px;
+    margin-top: 20px;
+}
+
+.soon {
+    margin-left: 5px;
+    padding: 4px;
+    margin-top: 20px;
+}
+
+.Email {
+    margin-left: 72px;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.Mobile {
+    margin-left: 8px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+#Male {
+    margin-left: 75px;
+    margin-top: 20px;
+}
+
+#Female {
+    margin-left: 35px;
+    margin-top: 20px;
+}
+
+.seventh textarea {
+    height: 80px;
+    width: 250px;
+    margin-left: 140px;
+    margin-bottom: 15px;
+    margin-top: -32px
+}
+
+.seventh {
+    margin-top: 30px;
+    /*     margin-left: 20px; */
+}
+
+.City {
+    margin-left: 97px;
+    padding: 5px;
+}
+
+.Pincode {
+    margin-left: 65px;
+    padding: 5px;
+}
+
+.State {
+    margin-left: 85px;
+    padding: 5px;
+}
+
+.Country {
+    margin-left: 58px;
+    padding: 5px;
+}
+
+.hobi {
+    margin-top: 20px;
+}
+
+.hobi input {
+    margin-left: 30px;
+}
+
+.hobi .firstinput {
+    margin-left: 60px;
+}
+
+.hobi .fifthinput {
+    margin-left: 128px;
+    margin-top: 20px;
+}
+
+.Qualification {
+    margin-top: 20px;
+}
+
+table {
+    margin-top: -20px;
+    margin-left: 150px;
+}
+
+.sno {
+    margin-left: 30px;
+    padding: 5px;
+}
+
+#btn h1 {
+    margin-left: 550px;
+    font-size: 25px;
+    color: blue;
+}
+
+
+/* a{
+    text-decoration: none;
+    color:#000;
+    font-weight: bolder;
+    padding: 8px 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+} */
+
+.button1 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.button1 input {
+    margin-left: 5px;
+    color: #000;
+    font-weight: bold;
+    padding: 2px 8px;
+    border-radius: 5px;
+}
+
+.button1 button {
+    background-color: #fff;
+    padding: 3px 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    outline: none;
+}
+
+.button1 button a {
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.Bca {
+    margin-left: 40px;
+}
+
+input {
+    color: #000;
+    outline: none;
+}
+
+select {
+    color: #000;
+}
+
+select option {
+    color: #000;
+}
+
+textarea {
+    color: #000;
+}
